@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Created-By: Apache Maven
+Build-Jdk: 1.7.0_60
+Extension-Name: com.omco.ci.jenkins.web
+Implementation-Title: com.omco.ci.jenkins.web
+Implementation-Version: 0.0.1-SNAPSHOT
+Group-Id: coolerteam
+Short-Name: com.omco.ci.jenkins.web
+Long-Name: com.omco.ci.jenkins.web
+Url: http://maven.apache.org
+Plugin-Version: 0.0.1-SNAPSHOT (private-07/27/2015 11:19-Administrator)
+Hudson-Version: 1.565.3
+Jenkins-Version: 1.565.3
+PluginFirstClassLoader: true
+Plugin-Developers: 
+

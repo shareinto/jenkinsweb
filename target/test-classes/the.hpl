@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Group-Id: coolerteam
+Short-Name: com.omco.ci.jenkins.web
+Long-Name: com.omco.ci.jenkins.web
+Url: http://maven.apache.org
+Plugin-Version: 0.0.1-SNAPSHOT (private-07/27/2015 11:19-Administrator)
+Hudson-Version: 1.565.3
+Jenkins-Version: 1.565.3
+PluginFirstClassLoader: true
+Plugin-Developers: 
+Libraries: Z:\workspace\com.omco.ci.jenkins.web\target\classes,Z:\.m2\
+ repository\org\apache\httpcomponents\httpmime\4.5\httpmime-4.5.jar,Z:
+ \.m2\repository\org\apache\httpcomponents\httpcore\4.4.1\httpcore-4.4
+ .1.jar,Z:\.m2\repository\org\apache\httpcomponents\httpclient\4.5\htt
+ pclient-4.5.jar
+Resource-Path: Z:\workspace\com.omco.ci.jenkins.web\src\main\webapp
+

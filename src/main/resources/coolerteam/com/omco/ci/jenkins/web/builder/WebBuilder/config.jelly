@@ -1,0 +1,11 @@
+<?jelly escape-by-default='true'?>
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define" xmlns:l="/lib/layout" xmlns:t="/lib/hudson" xmlns:f="/lib/form">
+	<f:section title="Web自动化部署配置">
+		<f:entry title="war包路径" field="warFilePath">
+	    	<f:textbox />
+	  	</f:entry>
+		<f:entry title="Web服务器组名" field="group">
+			<f:textbox />
+		</f:entry>
+	</f:section>
+</j:jelly>
